@@ -1,12 +1,16 @@
 Project-1
+
 Website book
+
 Author : Elias Guaman / mail: cruz.guaman@yachaytech.edu.ec
+
 Tutor : Rigoberto Fonseca
 
 Watch video: 
 
 
 # Flask & Postgres
+
 Develop our Front-end using Flask and Postgres as Back-end.
 
 ## Built With
