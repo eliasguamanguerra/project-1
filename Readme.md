@@ -6,7 +6,7 @@ Author : Elias Guaman / mail: cruz.guaman@yachaytech.edu.ec
 
 Tutor : Rigoberto Fonseca
 
-Watch video: 
+Watch video: https://youtu.be/Ynqm0WR0qKo
 
 
 # Flask & Postgres
