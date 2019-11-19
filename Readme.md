@@ -24,7 +24,7 @@ We use  resource available, download the distro code for this project from [http
 
 ## Author
 
--   **Alfredo Santa Cruz**  -  Student  -  [Yachay]([https://www.yachaytech.edu.ec/](https://www.yachaytech.edu.ec/))
+-   **Cruz Elias Guaman** -  Student  -  [Yachay]([https://www.yachaytech.edu.ec/](https://www.yachaytech.edu.ec/))
 
 ## Requirements
 
