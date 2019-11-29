@@ -18,13 +18,6 @@ Develop our Front-end using Flask and Postgres as Back-end.
 - SQLAlchemy
 - Psycopg2
 
-## Versioning 
-
-We use  resource available, download the distro code for this project from [https://cdn.cs50.net/web/2019/x/projects/1/project1.zip](https://cdn.cs50.net/web/2019/x/projects/1/project1.zip) and unzip `project1.zip` directory.
-
-## Author
-
--   **Cruz Elias Guaman** -  Student  -  [Yachay]([https://www.yachaytech.edu.ec/](https://www.yachaytech.edu.ec/))
 
 ## Requirements
 
